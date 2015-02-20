@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal">
+
+    <item android:title="Agregar"
+        android:id="@+id/agregar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:orderInCategory="95"
+        android:showAsAction="always|collapseActionView"/>
+
+    <item android:title="Buscar"
+        android:id="@+id/menu_buscar"
+        android:orderInCategory="90"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="ifRoom"/>
+</menu>

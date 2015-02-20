@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actividades IZV</string>
+    <string name="tvProfesor">Profesor:</string>
+    <string name="tvDepartamento">Departamento:</string>
+    <string name="tvGrupo">Grupo:</string>
+    <string name="tvDescripcion">Descripción</string>
+    <string name="tvActividad">Actividad</string>
+    <string name="tvComplementaria">Complementaria</string>
+    <string name="tvExtraescolar">Extraescolar</string>
+    <string name="tvFecha">Fecha:</string>
+    <string name="tvLugar">Lugar:</string>
+    <string name="tvLugarS">Lugar salida:</string>
+    <string name="tvLugarR">Lugar regreso:</string>
+    <string name="tvFechai">Fecha salida:</string>
+    <string name="tvFechaf">Fecha regreso:</string>
+    <string name="tvHora">Hora:</string>
+    <string name="tvHoraHasta">Hasta:</string>
+    <string name="btAgregar">Agregar actividad</string>
+    <string name="Borrar">Eliminar actividad</string>
+    <string name="ConfirmacionBorrar">¿Seguro que desea eliminar la actividad?</string>
+    <string name="Guardado">Actividad guardada</string>
+    <string name="Error">No se ha podido completar la operacion</string>
+    <string name="Vacios">Rellene todos los campos</string>
+</resources>
